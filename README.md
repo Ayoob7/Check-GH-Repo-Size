@@ -35,7 +35,11 @@ python repo_check_size.py https://github.com/opencv/opencv.git
 python repo_check_size.py https://github.com/opencv/opencv/tree/master/data
 ```
 
-All the above would give the size of the repo.
+**All the above would give the size of the repo.**
+
+```
+Size of https://github.com/opencv/opencv/tree/master/data is = 464.92 MB
+```
 
 ### Usage Gallery
 ![alt text](https://github.com/Ayoob7/Check-GH-Repo-Size/blob/master/images/Screenshot1.png)
