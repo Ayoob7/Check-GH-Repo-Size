@@ -36,3 +36,11 @@ python repo_check_size.py https://github.com/opencv/opencv/tree/master/data
 ```
 
 All the above would give the size of the repo.
+
+### Usage Gallery
+![alt text](https://github.com/Ayoob7/Check-GH-Repo-Size/blob/master/images/Screenshot1.png)
+
+
+## Credits
+
+Some methods based on the answer given by StackOverflow user - https://stackoverflow.com/users/2062973/james-sapam to the question posed here - https://stackoverflow.com/questions/5194057/better-way-to-convert-file-sizes-in-python
