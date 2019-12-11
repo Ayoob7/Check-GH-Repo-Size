@@ -47,4 +47,5 @@ def pretty_print_size(size):
 
 
 if sys.argv[1]:
+    print('\n')
     print("Size of "+sys.argv[1]+" is = "+pretty_print_size(check_repo_size(sys.argv[1])))
